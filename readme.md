@@ -1,0 +1,1 @@
+Olá! Aqui faço uma calculadora simples usando a linguagem C
