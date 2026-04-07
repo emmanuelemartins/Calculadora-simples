@@ -14,7 +14,7 @@ int main(){
     scanf("%f", &numero2);
 
     
-        switch(operacao) {
+        switch(operacao) { // cada símbolo recebe uma operação
         case '+':
         resultado= numero1 + numero2; 
         break;
